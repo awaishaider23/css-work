@@ -1,0 +1,36 @@
+.container{}
+body{
+    background-color:black ;
+}
+
+.box{
+    background-color: rgba(2, 2, 54, 0.822);
+    width:28%;
+    height:300px;
+    margin-left: 250px;
+    margin-top: 25px;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+   /*min-width: 350px;
+   max-width: 800px; 
+   min-height: 400px;
+   max-height:  800px; */
+   font-family: "Roboto", sans-serif;
+    font-size: medium;
+    font-weight: 700;
+    font-style: normal;
+  
+   
+}
+ input{ 
+    height: 22px;
+    border-radius: 5px;
+    background-color: rgb(20, 20, 20);
+ }
+.btn{
+  width: 175px;
+  height: 30px; 
+  background-color: rgb(17, 194, 253);
+  border-radius: 5px;
+}
